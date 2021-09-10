@@ -43,11 +43,13 @@
          <a href="https://twitter.com/iam_rohitsv" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="adssidhu86" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rohitshailesh74/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="rohitshailesh" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100010002196732" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="rohitshailesh" height="50" width="50" /></a>
-         <a href=""
-</p>
          
-       
-<!-- <p align="center">
-  <img src="https://github.com/RohitShailesh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
- -->
+<hr>
+
+         
+<h4 align="center" >Watch my contribution graph get eaten by the snake 🐍</h4>       
+<p align="center">
+  <img src="https://github.com/Rohitshailesh43/Rohitshailesh43/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake"></center>
+</p>
+
