@@ -1,24 +1,24 @@
-<h1 align="center">  Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">  Hey There! I'm Rohit Shailesh! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="50"
          width="45" /></h1>
  <hr>
-<h2  align="center">👨‍💻I'm determined individual exploring all the nooks and crannies of the Tech world!</h2>
-<h4> Hi, I'm Rohit Shailesh, a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</h4>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohitshailesh43&label=Profile%20views&color=blue&style=flat-square" alt="RohitShailesh" /> </p>
+<!-- <h2  align="center">👨‍💻I'm determined individual exploring all the nooks and crannies of the Tech world!</h2> -->
+<h4>&#8605; I'm a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience, architecture, and code quality of the things I build.</h4>
 <div >
 <img align="right" height="260px" width="270" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 </div>
-<br></br>
 
-<div align="left"  height="260px" width="270">
-<h4>I am also an open-source enthusiast and maintainer.I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h4>
+<div align="left"  height="190px" width="270px">
+<h4> &#8605; I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h4>
 </div>      
 
 <br></br>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohitshailesh43&label=Profile%20views&color=brightgreen&style=plastic" alt="RohitShailesh" /> </p>
+
 
 
 <div align="center">
