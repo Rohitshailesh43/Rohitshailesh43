@@ -4,7 +4,7 @@
          width="45" /></h1>
  <hr>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohitshailesh43&label=Profile%20views&color=blue&style=flat-square" alt="RohitShailesh" /> </p>
-<!-- <h2  align="center">👨‍💻I'm determined individual exploring all the nooks and crannies of the Tech world!</h2> -->
+<!-- <h2  align="center">👨‍💻 I'm determined individual exploring all the nooks and crannies of the Tech world!</h2> -->
 </div>   
  <img align="right" height="220px" width="230" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 </div>
