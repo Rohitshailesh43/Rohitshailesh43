@@ -26,7 +26,10 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rohitshailesh43&&show_icons=true&title_color=FFFF00&icon_color=FFC312&text_color=EEFBFB&bg_color=007CC7">
-</div>
+
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohitshailesh43's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitshailesh43&theme=monokai-metallian&hide_border=true">
+ </div>
+ <br></br>
 <h2 align="center">🤹🏻‍♂️ MY Skills 🤹🏻‍♂️</h2>  
 
 <div align="center">
