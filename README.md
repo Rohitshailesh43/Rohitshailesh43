@@ -49,7 +49,7 @@
          
 </p>
 <hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=Rohitshailesh43&theme=noctis-minimus)](https://activity-graph.herokuapp.com/graph?username=Rohitshailesh43&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"">
+<img src="https://activity-graph.herokuapp.com/graph?username=Rohitshailesh43&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 
          
 <h4 align="center" >Watch my contribution graph get eaten by the snake🐍</h4>       
